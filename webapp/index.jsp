@@ -1,9 +1,6 @@
-<%@ page contentType="text/html;charset=UTF-8" language="java" %>
+<!-- src/main/webapp/index.jsp -->
 <html>
-<head>
-    <title>My Sample Maven WebApp</title>
-</head>
-<body>
-    <h1>Hello from Maven Web App deployed via Jenkins and Tomcat!</h1>
-</body>
+  <body>
+    <h1>Hello, your app is deployed!</h1>
+  </body>
 </html>
